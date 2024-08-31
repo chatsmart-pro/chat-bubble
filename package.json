@@ -1,0 +1,19 @@
+{
+  "name": "@chatsmart.pro/chat-bubble",
+  "version": "1.0.58",
+  "description": "Chatsmart.pro Chat Bubble Widget",
+  "main": "chat-bubble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatsmart-pro/chat-bubble.git"
+  },
+  "author": "Georges Petrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chatsmart-pro/chat-bubble/issues"
+  },
+  "homepage": "https://github.com/chatsmart-pro/chat-bubble#readme"
+}
